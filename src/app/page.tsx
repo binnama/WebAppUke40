@@ -1,3 +1,8 @@
+
 export default function Home() {
-  return <div>Kode her</div>
+  return (
+    <main>
+      <h1>Hellå</h1>
+    </main>
+  )
 }
